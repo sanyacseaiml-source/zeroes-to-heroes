@@ -1,0 +1,15 @@
+Day 2 of Zeroes to Heroes Challenge
+Task 1- identify the given number is even or odd ->
+          to identify whether the number enterd is even or odd.The program takes an input of an integer.
+          Then it scan that the entered number is completly divisible or not.If the entered number is completly divisible then it prints yes the entered number is even.
+          If the entered number is not divisible by 2 then it prints "The entered number is odd"
+Task 2- To identify wheter the person is eligible to voote or not ->
+          To identify the person is eligible to vote or not the program asks the person makw an input of an integer that would be the age of the person.
+          Then it checks than the age of person is greater or equal to 18 or not.
+          If the age of person is greater or equal to 18 then it prints/says than "Yes you are eligible to vote"
+          ELse it print/syas "You are not eligible to vote right now"
+Task 3 - To check which number is greater ->
+         To check which number is greater the program takes two inputs "Xand Y" where X will be first number and Y will be second number.
+         Then it identify that X>Y or X<Y.
+         If X>Y the program prints "first number is greater than second number".
+         If X<Y the program prints "second number is greater than first number".
