@@ -1,3 +1,7 @@
+print("Hello World")
+print("I'm priyanshi")
+print("Level: Student")
+print("Goal:Become a AI Engineerand Enterpreneur")
 print("hello world")
 print("i am khushi seth")
 print("level : beginner")
