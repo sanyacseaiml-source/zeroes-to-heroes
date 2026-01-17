@@ -1,0 +1,18 @@
+A= int(input("enter a number")) 
+if A%2==0:
+    print("enterd number is even")
+else:
+    print("entered number is odd") 
+ 
+B= int(input("enter your present age"))
+if B>=18:
+     print("You are now eligible for voting")
+else:
+    print("You are not eligible for voting")
+    
+X= int(input("enter first number"))
+Y= int(input("enter second number"))
+if X>Y:
+    print("first number is greater than second number")
+else:
+    print("second number is greater than first number")

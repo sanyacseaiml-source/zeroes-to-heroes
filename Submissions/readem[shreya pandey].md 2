@@ -1,0 +1,26 @@
+# Day 2 - Conditions (Decision Making)
+
+## Language used
+python
+
+## Description
+This is my day 2 task submission for zero to hero challenge
+The tasks are write a program for 
+1. **Check if a number is Even or Odd**
+2. **Check if a person is eligible to vote**
+3. **Find the largest of two numbers**
+4. Bonus Challenge 🔐 **Simple Login Check** Create a basic login system
+
+## file include
+-main.py2
+
+## Output
+Enter a number: 4
+The number is even
+Enter your age: 19
+you are eligible to vote
+enter first number8
+enter second number: 10
+the larger number is: 10
+Enter your password: python111
+Login Successful
